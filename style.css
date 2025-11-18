@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=swap');
 * {
     margin: 0;
 }
@@ -7,4 +8,9 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+
+}
+
+body {
+    font-family: Doto;
 }
