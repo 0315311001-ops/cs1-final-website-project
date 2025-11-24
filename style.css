@@ -8,11 +8,5 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-
-}
-
-body {
-    font-family: Doto;
-    font-size: main;
-    font-style: etc
+    background-color:grey;
 }
